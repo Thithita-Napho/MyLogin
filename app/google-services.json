@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079307457190",
+    "project_id": "myloginyou-cdbae",
+    "storage_bucket": "myloginyou-cdbae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079307457190:android:3b35e92b296005bb1fda67",
+        "android_client_info": {
+          "package_name": "com.example.mylogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079307457190-o8624mt51ajfmrbt01c1utr9s4rcfc65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkq1QunMOdyCFGcj1O_JUKehtHatLrqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079307457190-o8624mt51ajfmrbt01c1utr9s4rcfc65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
